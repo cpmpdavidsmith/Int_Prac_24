@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/bin/Debug/net7.0/Int_Prac24QueueContains
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/bin/Debug/net7.0/Int_Prac24QueueContains.deps.json
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/bin/Debug/net7.0/Int_Prac24QueueContains.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/bin/Debug/net7.0/Int_Prac24QueueContains.dll
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/bin/Debug/net7.0/Int_Prac24QueueContains.pdb
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.dll
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/refint/Int_Prac24QueueContains.dll
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.pdb
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/Int_Prac24QueueContains.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/Int_Prac24QueueContains/Int_Prac24QueueContains/obj/Debug/net7.0/ref/Int_Prac24QueueContains.dll
